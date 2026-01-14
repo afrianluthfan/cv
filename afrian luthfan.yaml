@@ -145,17 +145,22 @@ cv:
         start_date: 2025-01
         end_date: 2026-01
         highlights:
-          - Joined the 'Culture Ranger' as a member to help improve company culture and fulfill KPIs, impacting ~300 employees
+          - Joined the 'Culture Ranger' as a member to help improve company culture and fulfill KPIs
+          - Impacted ~300 employees
       - company: PT Bank Raya Indonesia Tbk.
         position: RIF Committee, Head of Permit and Supplies division
         start_date: 2025-01
         end_date: 2025-03
         highlights:
-          - Managed and led the permit and supplies division in organizing the permits and supplies needed for the RIF event, impacting ~300 employees
+          - Managed and led the permit and supplies division in organizing the permits and supplies needed for the RIF event
+          - Impacted ~300 employees
       - company: PT Bank Raya Indonesia Tbk.
         position: DDO Super League Committee, Staff of Event Division
         start_date: 2025-08
         end_date: 2025-12
+        highlights:
+          - Managed and organized the events in the DDO Super League event
+          - Impacted ~300 employees
 
 
 design:
