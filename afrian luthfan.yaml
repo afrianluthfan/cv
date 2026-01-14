@@ -21,6 +21,7 @@ cv:
           - Created a machine learning model to distinguish AI-generated faces from real ones
           - Joined the 'Culture Ranger' as a member and some committees, impacting ~300 employees
           - Helped in creating a Retrieval Augmented Generation chatbot using Google's Gemini LLM and Google Vertex, impacting >1000 employees (everyone in the company)
+          - Created internal APIs to help the company in their daily operations, impacting ~100 employees
 
       - company: Badan Amil Zakat Nasional
         position: Database Intern
@@ -122,6 +123,12 @@ cv:
         url: https://github.com/afrianluthfan/uniform-pdf-page-size-transformer
         highlights:
           - A tool that can transform all pages in a PDF file to have the same size using PyMuPDF
+
+      - name: Uker Mapping Service
+        url: Internal Use Only
+        highlights:
+          - An internal API service that maps the company's CIF acquisition to the respective branch office
+          - Used by ~100 employees in the company
           
     Organizational Experience:
       - company: Himpunan Mahasiswa S1 Rekayasa Perangkat Lunak Telkom University
