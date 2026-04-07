@@ -1,11 +1,7 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+# Ignore everything
+*
 
-# Virtual environments
-.venv
-rendercv_output
+# Except these files
+!.gitignore
+!afrian luthfan.yaml
+!README.md

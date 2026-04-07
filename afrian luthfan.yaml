@@ -1,5 +1,5 @@
 cv:
-  name: Afrian Luthfan, S.Si. Kom. 
+  name: Afrian Luthfan, S.Si. Kom.
   location: Bogor, Indonesia
   email: afrian.luthfan@gmail.com
   phone: "+6287873039652"
@@ -9,7 +9,7 @@ cv:
       username: afrian-luthfan
   sections:
     Summary:
-      - I have a bachelor's degree in software engineering.  Seeking to use my JavaScript, TypeScript, and Python skills alongside my commitment to teamwork and experiences to serve your company. 
+      - I have a bachelor's degree in software engineering.  Seeking to use my JavaScript, TypeScript, and Python skills alongside my commitment to teamwork and experiences to serve your company.
 
     experience:
       - company: PT Bank Raya Indonesia Tbk.
@@ -27,7 +27,7 @@ cv:
         position: Database Intern
         start_date: 2022-06
         end_date: 2022-08
-        highlights: 
+        highlights:
           - Created a data lake system for Badan Amil Zakat Nasional's application called SIMBA
 
       - company: Slide Factory
@@ -47,7 +47,7 @@ cv:
           - Led 14 active staff members in total, impacting over 1000 individuals
 
     education:
-      - institution:  Telkom University
+      - institution: Telkom University
         area: Software Engineering
         degree: Bachelor's degree
         start_date: 2019-08
@@ -59,7 +59,7 @@ cv:
     certifications:
       - name: Learn to Create Web Applications with React
         date: 2023 - 2026
-        location:  Dicoding Indonesia
+        location: Dicoding Indonesia
 
       - name: Learn to Create Front-End Web for Beginners
         date: 2023 - 2026
@@ -67,7 +67,7 @@ cv:
 
       - name: Learn Basic JavaScript Programming
         date: 2023 - 2026
-        location:  Dicoding Indonesia
+        location: Dicoding Indonesia
 
       - name: Learn Basic Web Programming
         date: 2023 - 2026
@@ -79,7 +79,7 @@ cv:
 
       - name: Learn DevOps Basics
         date: 2023 - 2026
-        location:  Dicoding Indonesia
+        location: Dicoding Indonesia
 
       - name: Learn Basic Project Management
         date: 2023 - 2026
@@ -87,27 +87,53 @@ cv:
 
       - name: Start Basic Programming to Become a Software Developer
         date: 2023 - 2026
-        location:  Dicoding Indonesia
+        location: Dicoding Indonesia
 
       - name: EF SET English Certificate 79/100 (C2 Proficient)
         date: Lifetime from 2023
         location: English First
+
+      - name: AI Fluency Framework & Foundations
+        date: 2026
+        location: Anthropic
+
+      - name: Claude 101
+        date: 2026
+        location: Anthropic
+
+      - name: "Model Context Protocol: Advanced Topics"
+        date: 2026
+        location: Anthropic
+
+      - name: Introduction to Model Context Protocol
+        date: 2026
+        location: Anthropic
+
+      - name: Introduction to agent skills
+        date: 2026
+        location: Anthropic
+
+      - name: Introduction to subagents
+        date: 2026
+        location: Anthropic
+
+      - name: Claude Code in Action
+        date: 2026
+        location: Anthropic
 
     portfolio:
       - name: Personal Portfolio Website
         url: https://riann.is-a.dev/
         highlights:
           - My own personal Portfolio website containing my projects and resume
-        status:
-          - Finished, needs update on the data per January 2026
+        status: Finished, needs update on the data per January 2026
 
       - name: Identi-fy
-        url: https://identi-fy-aliezan.vercel.app/
+        url: https://identi-fy.live
         highlights:
           - A web app that summarizes a Spotify user's profile based on their top artists and tracks using Spotify API
-        status:
-          - Waiting for third party approval
-      
+        status: Waiting for third party approval
+
       - name: RAVA (AI based Chatbot for PT Bank Raya Indonesia Tbk.)
         url: Internal Use Only
         highlights:
@@ -129,7 +155,7 @@ cv:
         highlights:
           - An internal API service that maps the company's CIF acquisition to the respective branch office
           - Used by ~100 employees in the company
-          
+
     Organizational Experience:
       - company: Himpunan Mahasiswa S1 Rekayasa Perangkat Lunak Telkom University
         position: Vice President
@@ -161,7 +187,6 @@ cv:
         highlights:
           - Managed and organized the events in the DDO Super League event
           - Impacted ~300 employees
-
 
 design:
   theme: engineeringresumes
